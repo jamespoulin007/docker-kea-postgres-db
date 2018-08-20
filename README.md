@@ -1,5 +1,3 @@
-![alt text](http://www.ungleich.ch/img/logo_200x200.svg "ungleich")
-
 PostgreSQL 9.5 container as back-end support for Kea DHCP server.
 
 # What is it?

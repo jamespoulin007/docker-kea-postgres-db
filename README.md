@@ -1,4 +1,4 @@
-PostgreSQL 9.5 container as back-end support for Kea DHCP server.
+PostgreSQL 9.5 container as back-end support for Kea DHCP server. Use repo https://github.com/jamespoulin007/docker-kea-dhcp for the KEA DHCP server.
 
 # What is it?
 
